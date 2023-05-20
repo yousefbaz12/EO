@@ -8,3 +8,6 @@ By utilizing the Equilibrium Optimizer, I was able to efficiently explore the hy
 The success of the Equilibrium Optimizer in fine-tuning the hyperparameters and achieving a high accuracy rate on the NSL-KDD dataset underscores its potential as a valuable tool in various domains that require optimization. Its ability to efficiently search for the best parameter settings contributes to enhancing the performance of models and can lead to improved results in real-world applications.
 
 Overall, the development and application of the Equilibrium Optimizer in fine-tuning the hyperparameters of the model on the NSL-KDD dataset resulted in a remarkable accuracy rate of 96%, demonstrating its effectiveness and potential as an optimization algorithm in the field of machine learning and data analysis.
+### Paper Link 
+### https://www.sciencedirect.com/science/article/abs/pii/S0950705119305295
+
